@@ -2,7 +2,9 @@
 
 
 参考了菜鸟教程的信息
-[链接](https://www.baidu.com/link?url=zyfC5ceSKYupGVjuqodcX58kY262QMPHJhOsJEX6SlSR1XBa5d1oKP518C83GMQFxLLzhFX5GOl_iPudWPxfWq75FrMAmAagCCb2k4dvjra&wd=&eqid=faff8c73000436ec000000055f52f030)
+
+[链接](https://www.baidu.com/linkurl=zyfC5ceSKYupGVjuqodcX58kY262QMPHJhOsJEX6SlSR1XBa5d1oKP518C83GMQFxLLzhFX5GOl_iPudWPxfWq75FrMAmAagCCb2k4dvjra&wd=&eqid=faff8c73000436ec000000055f52f030)
+
 单例模式（Singleton Pattern）是 Java 中最简单的设计模式之一。这种类型的设计模式属于创建型模式，它提供了一种创建对象的最佳方式。
 这种模式涉及到一个单一的类，该类负责创建自己的对象，同时确保只有单个对象被创建。这个类提供了一种访问其唯一的对象的方式，可以直接访问，不需要实例化该类的对象。单例模式的核心之一是构造方法私有化。
 单例模式一般有5种实现方式：饿汉式、懒汉式、双重检查、静态内部类、枚举。
