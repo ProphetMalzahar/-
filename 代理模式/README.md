@@ -109,3 +109,4 @@ public class Main {
 
 动态代理的优势在于可以很方便的对代理类的函数进行统一的处理，而不用修改每个代理类中的方法。是因为所有被代理执行的方法，都是通过在InvocationHandler中的invoke方法调用的，所以我们只要在invoke方法中统一处理，就可以对所有被代理的方法进行相同的操作了。
 
+部分引用自博客[链接](https://www.cnblogs.com/gonjan-blog/p/6685611.html)
